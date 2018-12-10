@@ -1,5 +1,4 @@
 <template>
-<div id = "bg">
   <div id="app">
     <nav>
       <router-link to="/">Home</router-link>
@@ -8,7 +7,6 @@
 
     <router-view />
   </div>
-</div>
 </template>
 
 <script>
@@ -23,18 +21,13 @@ export default {
 
 <style>
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
-#bg{
-  width: 100%;
-  height: 100%;
-  background-image: url('./assets/img/bg.jpg')
-}
 body {
-  background-image: url('./assets/img/bg.jpg');
+  background-image: url('./assets/img/bg2.jpg');
   font-family: 'Montserrat', sans-serif;
   display: grid;
   grid-template-rows: auto;
   justify-items: center;
-  padding-top: 50px;
+  padding-top: 20px;
 }
 body, html {
   margin: 0;
@@ -44,6 +37,7 @@ body, html {
     width: 80%;
     height: 80%;
     margin: 140px;
+    margin-top: 0px;
     
 }
 nav {
@@ -54,7 +48,7 @@ nav a {
   text-decoration: none;
   background: #fff;
   border-radius: 3px;
-  color: rgb(0, 110, 255);
+  color: black;
   font-weight: bold;
   margin-right: 15px;
 }

@@ -70,10 +70,12 @@ export default {
   ul li {
     padding: 20px;
     font-size: 1.3em;
-    background-color: #E0EDF4;
-    border-left: 5px solid #3EB3F6;
+    /* background-color: #E0EDF4; */
+    background-color:  #FFE4C4;
+    border-left: 5px solid SandyBrown;;
     margin-bottom: 2px;
-    color: #3E5252;
+    color: black;
+    
   }
   p {
     text-align:center;
@@ -92,7 +94,8 @@ export default {
     color: #687F7F;
   }
   .alert {
-    background: #fdf2ce;
+    background: white;
+    color: red;
     font-weight: bold;
     display: inline-block;
     padding: 5px;

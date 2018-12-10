@@ -15,3 +15,16 @@ export default {
   }
 }
 </script>
+<style>
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+
+.about {
+    width: 80%;
+    height: 80%;
+    margin: 140px;
+    margin-top: 0px;
+    
+}
+
+</style>
