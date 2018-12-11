@@ -20,11 +20,7 @@ export default {
 
 
 .about {
-    width: 80%;
-    height: 80%;
-    margin: 140px;
-    margin-top: 0px;
-    
+    background: white;
 }
 
 </style>

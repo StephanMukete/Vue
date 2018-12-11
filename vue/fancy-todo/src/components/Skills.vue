@@ -32,7 +32,9 @@ export default {
       skill: '',
       skills: [
         { "skill": "Vue.js"},
-        { "skill": "Frontend Developer"}
+        { "skill": "Frontend Developer"},
+        { "skill": "javascript"},
+        { "skill": "react"},
       ]
     }
   },
@@ -70,7 +72,6 @@ export default {
   ul li {
     padding: 20px;
     font-size: 1.3em;
-    /* background-color: #E0EDF4; */
     background-color:  #FFE4C4;
     border-left: 5px solid SandyBrown;;
     margin-bottom: 2px;
@@ -91,7 +92,7 @@ export default {
     padding: 20px;
     font-size: 1.3em;
     background-color: #323333;
-    color: #687F7F;
+    color: white;
   }
   .alert {
     background: white;

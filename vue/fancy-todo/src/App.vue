@@ -22,7 +22,7 @@ export default {
 <style>
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 body {
-  background-image: url('./assets/img/bg2.jpg');
+  background-image: url('./assets/img/bg4.jpg');
   font-family: 'Montserrat', sans-serif;
   display: grid;
   grid-template-rows: auto;
