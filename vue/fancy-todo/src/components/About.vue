@@ -2,10 +2,11 @@
   <div class="about">
       <img src="../assets/img/about.png" alt="">
     <h1>About this app..</h1>
-    <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali. dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali..</p>
+    <p> This app is actually my first app in <strong>vue</strong>. I actually developed a strong interest to learn vue after realising how similar vue is to react do eiusmod tempor incididunt ut labore et dolore magna ali..</p>
      <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
       <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
            <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
+           <h1>About me...</h1>
       <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
            <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
       <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
