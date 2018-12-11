@@ -1,7 +1,15 @@
 <template>
   <div class="about">
-    <h1>Hello {{ their_name }}, this is an about page</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
+      <img src="../assets/img/about.png" alt="">
+    <h1>About this app..</h1>
+    <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali. dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali..</p>
+     <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
+      <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
+           <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
+      <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
+           <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
+      <p>dipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...</p>
+    
   </div>
 </template>
 
@@ -21,6 +29,13 @@ export default {
 
 .about {
     background: white;
+    float: left;
+    height: 550px;
 }
-
+img{
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    float: left;
+}
 </style>

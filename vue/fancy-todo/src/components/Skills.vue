@@ -19,7 +19,7 @@
         <!-- </transition-group> -->
       </ul>
 
-      <p>These are the skills that you possess.</p>
+      <p>These are the skills I possess.</p>
     </div>
   </div>
 </template>
@@ -31,10 +31,12 @@ export default {
     return {
       skill: '',
       skills: [
+        { "skill": "React"},
         { "skill": "Vue.js"},
-        { "skill": "Frontend Developer"},
-        { "skill": "javascript"},
-        { "skill": "react"},
+        { "skill": "Javascript"},
+        { "skill": "Redux"},
+        { "skill": "Node.js"},
+        { "skill": "Express"},
       ]
     }
   },
