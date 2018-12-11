@@ -31,12 +31,19 @@ export default {
     return {
       skill: '',
       skills: [
+        { "skill": "Html5"},
+        { "skill": "CSS3"},
+         { "skill": "Sass"},
+        { "skill": "Javascript"},
         { "skill": "React"},
         { "skill": "Vue.js"},
-        { "skill": "Javascript"},
+        { "skill": "Php"},
         { "skill": "Redux"},
         { "skill": "Node.js"},
         { "skill": "Express"},
+        { "skill": "git"},
+        { "skill": "REST"},
+        { "skill": "Mongo"},
       ]
     }
   },

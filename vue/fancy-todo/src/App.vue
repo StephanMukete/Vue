@@ -12,7 +12,7 @@
 <script>
 import Skills from './components/Skills.vue'
 export default {
-  name: 'app',
+  name: 'skills',
   components: {
     Skills
   }
@@ -32,11 +32,12 @@ body {
 body, html {
   margin: 0;
   height: 100%;
+  width: 100%;
 }
 #app {
     width: 80%;
     height: 80%;
-    margin: 140px;
+    margin: 50px;
     margin-top: 0px;
     
 }
@@ -48,8 +49,8 @@ nav a {
   text-decoration: none;
   background: #fff;
   border-radius: 3px;
-  color: black;
+  color: SandyBrown;
   font-weight: bold;
-  margin-right: 15px;
+  margin-right: 10px;
 }
 </style>
